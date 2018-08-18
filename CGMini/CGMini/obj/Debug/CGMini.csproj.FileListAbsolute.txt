@@ -1,0 +1,5 @@
+D:\C#\CGMini\CGMini\obj\Debug\CGMini.csprojResolveAssemblyReference.cache
+D:\C#\CGMini\CGMini\obj\Debug\Hello.resources
+D:\C#\CGMini\CGMini\obj\Debug\CGMini.Properties.Resources.resources
+D:\C#\CGMini\CGMini\obj\Debug\CGMini.csproj.GenerateResource.cache
+D:\C#\CGMini\CGMini\obj\Debug\CGMini.csproj.CoreCompileInputs.cache

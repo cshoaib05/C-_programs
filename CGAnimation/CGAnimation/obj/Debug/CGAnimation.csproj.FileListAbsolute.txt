@@ -1,0 +1,11 @@
+D:\C#\CGAnimation\CGAnimation\bin\Debug\CGAnimation.exe.config
+D:\C#\CGAnimation\CGAnimation\bin\Debug\CGAnimation.exe
+D:\C#\CGAnimation\CGAnimation\bin\Debug\CGAnimation.pdb
+D:\C#\CGAnimation\CGAnimation\obj\Debug\CGAnimation.controller.resources
+D:\C#\CGAnimation\CGAnimation\obj\Debug\CGAnimation.Properties.Resources.resources
+D:\C#\CGAnimation\CGAnimation\obj\Debug\CGAnimation.csproj.GenerateResource.cache
+D:\C#\CGAnimation\CGAnimation\obj\Debug\CGAnimation.csproj.CoreCompileInputs.cache
+D:\C#\CGAnimation\CGAnimation\obj\Debug\CGAnimation.exe
+D:\C#\CGAnimation\CGAnimation\obj\Debug\CGAnimation.pdb
+D:\C#\CGAnimation\CGAnimation\obj\Debug\CGAnimation.Form1.resources
+D:\C#\CGAnimation\CGAnimation\obj\Debug\CGAnimation.csprojResolveAssemblyReference.cache

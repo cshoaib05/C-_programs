@@ -1,0 +1,7 @@
+D:\C#\CHEGG\CHEGG\bin\Debug\CHEGG.exe.config
+D:\C#\CHEGG\CHEGG\bin\Debug\CHEGG.exe
+D:\C#\CHEGG\CHEGG\bin\Debug\CHEGG.pdb
+D:\C#\CHEGG\CHEGG\obj\Debug\CHEGG.csprojResolveAssemblyReference.cache
+D:\C#\CHEGG\CHEGG\obj\Debug\CHEGG.csproj.CoreCompileInputs.cache
+D:\C#\CHEGG\CHEGG\obj\Debug\CHEGG.exe
+D:\C#\CHEGG\CHEGG\obj\Debug\CHEGG.pdb

@@ -1,0 +1,10 @@
+D:\C#\CGMini1\CGMini1\bin\Debug\CGMini1.exe.config
+D:\C#\CGMini1\CGMini1\bin\Debug\CGMini1.exe
+D:\C#\CGMini1\CGMini1\bin\Debug\CGMini1.pdb
+D:\C#\CGMini1\CGMini1\obj\Debug\CGMini1.csprojResolveAssemblyReference.cache
+D:\C#\CGMini1\CGMini1\obj\Debug\CGMini1.Form1.resources
+D:\C#\CGMini1\CGMini1\obj\Debug\CGMini1.Properties.Resources.resources
+D:\C#\CGMini1\CGMini1\obj\Debug\CGMini1.csproj.GenerateResource.cache
+D:\C#\CGMini1\CGMini1\obj\Debug\CGMini1.csproj.CoreCompileInputs.cache
+D:\C#\CGMini1\CGMini1\obj\Debug\CGMini1.exe
+D:\C#\CGMini1\CGMini1\obj\Debug\CGMini1.pdb
